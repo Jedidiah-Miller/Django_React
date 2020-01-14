@@ -1,4 +1,4 @@
-### Django React
+# Django React
 ## Get started
 in the project directory
 ```
